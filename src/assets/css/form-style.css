@@ -63,3 +63,17 @@
     font-size: 1rem;
     cursor: pointer;
   }
+
+  .section-lenguaje{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .section-frameworks {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+
