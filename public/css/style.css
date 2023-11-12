@@ -1,0 +1,12 @@
+@import url(./form-style.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: #1f53c5;
+    font-family: 'calibri';
+  }

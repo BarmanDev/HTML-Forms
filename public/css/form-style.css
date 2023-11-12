@@ -1,0 +1,85 @@
+    .form-register {
+    width: 30%;
+    background: #24303c;
+    padding: 2rem;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 16px;
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+  }
+  
+  .form-register h3 {
+    font-size:1.3rem ;
+    margin-bottom: 1rem;
+  }
+  
+  .controls {
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+  }
+  
+  .form-register p {
+    height: 2rem;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 2rem;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+
+  .recommend{
+    text-align: center;
+  }
+
+  .recommend input[type="radio"] {
+    margin: 0 10px;
+  }
+  .form-register a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .form-register a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+
+
+  .form-register .botons {
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 0.8rem;
+    color: white;
+    margin: 1rem 0;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+
+  .section-lenguaje{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .section-frameworks {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+
+    
+  .tell-more{
+
+    margin-top: 1rem;
+  }
+
