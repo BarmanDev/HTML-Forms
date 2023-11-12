@@ -25,7 +25,6 @@ app.post('/submit', (req, res) => {
   } catch (error) {
     console.error('Error al guardar el archivo formData.json:', error);
   }
-
   // Agregar los datos del formulario al array
   data.push(formData);
 
