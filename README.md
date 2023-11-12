@@ -3,7 +3,9 @@
 Este es un formulario web creado con Express, que recoge datos y los guarda en un archivo JSON. Se podra utilizar como marco para aplicaciones más completas.
 
 <div>
+    <h3>FORMULARIO PRINCIPAL</h3>
     <img src="./public/assets/form.PNG">
+    <h3>RESULTADO TRAS MANDAR EL FORMULARIO</h3>
     <img src="./public/assets/results.PNG">
 </div>
 
